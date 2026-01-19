@@ -1,5 +1,5 @@
 # 💫 About Me:
-my name is JaniPranav <br>I am a software Developer<br>I have interest fullstack 
+👋 Hi there, I'm [Jani Pranav]<br><br>🎓 Software Engineer<br>📱 Android & Web Application Developer<br>📊 Data Analysis & Machine Learning<br><br>Like To Code.
 
 
 ## 🌐 Socials:
@@ -16,7 +16,7 @@ my name is JaniPranav <br>I am a software Developer<br>I have interest fullstack
 ![](https://github-profile-trophy.vercel.app/?username=JaniX10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JaniX10&limit=5&theme=dark&combine_all_yearly_contributions=true)
